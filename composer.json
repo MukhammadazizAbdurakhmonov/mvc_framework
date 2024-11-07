@@ -1,0 +1,17 @@
+{
+    "name": "mukhammadaziz/mvc_framework",
+    "authors": [
+        {
+            "name": "Mukhammadaziz",
+            "email": ""
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Src\\": "Src/"
+            }
+    },
+
+    "require": {}
+}
